@@ -1,0 +1,6 @@
+# Program Searching Data
+## Fungsionalitas
+Program _data searching_ ini digunakan untuk mencari index dan/atau kolom sebuah elemen pada sebuah list data yang telah disediakan. Program ini berfungsi untuk memudahkan pengguna dalam melihat index dari data dengan menggunakan dua _searching algorithm_, yaitu _Jump Search Algorithm_ dan _Fibonacci Search Algorithm_.
+
+## Cara Kerja Program
+Sesaat ketika program dijalankan, pengguna akan melihat daftar elemen yang tersedia dalam data. Kemudian pengguna akan diminta memilih antara dua algoritma, yaitu 1 untuk _Jump Search Algorithm_ dan 2 untuk _Fibonacci Search Algorithm_. Kemudian, pengguna akan diminta memasukan salah satu dari elemen data yang tersedia dalam list. Kemudian salah satu dari algoritma yang dipilih akan dijalankan. Setelah itu, pengguna akan diberikan index dari elemen yang telah dimasukan. Jika elemen yang dimasukan tidak ada dalam daftar elemen di dalam list, maka pengguna akan diberikan teks bahwa elemen yang dicari tidak ada/tidak ditemukan.
